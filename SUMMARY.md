@@ -1,7 +1,7 @@
 # Table of contents
 
 * [简介](README.md)
-* [FAQ](faq.md)
+* [常见问题](faq.md)
 * [资产管理](c3/README.md)
   * [提货券](c3/c3-1.md)
   * [票卡](c3/c3-2.md)
